@@ -1,0 +1,2 @@
+- Đây là 1 Design Patten UI, khi dùng chỉ cần copy phần gamecore vào Scrip "GameCodeManager" 
+- Các thay đổi trong quá trình triển khai game có thể thêm vào các phương thức Override ở Scrip "GameCodeManager" 
